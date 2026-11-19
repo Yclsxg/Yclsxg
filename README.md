@@ -1,10 +1,7 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="这里放你的 GIF 图片链接" />
-</p>
+## Hi there 👋I an Yclsxg
 
 ### 📖 关于我
+- 👋🏻 目前是大一人工智能专业学生
 - 🌱 正在学习 Markdown、Python，学习使用 GitHub。
 - 🎧 爱好：🚶🏻‍♀️散步、🪈吹笛子、🎶听歌、🎤唱歌。
 
