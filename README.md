@@ -1,45 +1,19 @@
+## Hi there 👋
 
-<!-- 顶部动态横幅（你之后替换成你喜欢的GIF链接） -->
 <p align="center">
-  <img src="这里放你的GIF图片链接" width="900">
+  <img src="这里放你的 GIF 图片链接" />
 </p>
 
----
+### 📖 关于我
+- 🌱 正在学习 Markdown、Python，学习使用 GitHub。
+- 🎧 爱好：🚶🏻‍♀️散步、🪈吹笛子、🎶听歌、🎤唱歌。
 
-<!-- 自我介绍板块，对应第二张图 -->
-# 👋 Hi there
-我是 ______郭怀晨馨____
-> 在这里填写你的基础介绍，比如：正在学习编程、Markdown、Python，记录学习笔记
-
-在这里写你的经历、学习目标，你可以自由补充：
-- 当前正在学习：__________
-- 未来想学习：__________
+> ✨ 要么成功，要么成长。
 
 ---
 
-<!-- 爱好板块，对应第三张图 -->
-# 🗓️ 爱好
-- 🚶🏻‍♀️散步
+### 📬 找到我
+- 🎵 网易云：[芸桃初](https://music.163.com/#/user/home?id=3260565373)
 
-- 🪈吹竹笛
-  
--🎶听歌
-
--🎤唱歌 
----
-
-<!-- 网易云音乐卡片（替代Spotify黑胶卡片） -->
-# 🎵 网易云音乐状态
-<p align="center">
-<a href="https://music.163.com/#/user/home?id=这里填你的网易云ID">
-  <img src="https://meting-api.vercel.app/api/player?type=netease&id=这里填你的网易云ID" width="700"/>
-</a>
-</p>
-
----
-
-<!-- 我的仓库板块，放你之前的笔记仓库 -->
-# 📂 我的学习仓库
-- [Tasks](https://github.com/Yclsxg/Tasks)：存放所有作业笔记
-
--->
+### ✨ Fun fact
+保持热爱，稳步向前 ✨
