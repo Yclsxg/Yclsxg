@@ -10,7 +10,8 @@
 ---
 
 ### 📬 找到我
-- 🎵 网易云：[芸桃初](https://c6.y.qq.com/base/fcgi-bin/u?id=YPY57Y9KC)
+- 🎵 网易云：[芸桃初](https://music.163.com/#/user/home?id=3260565373)
+))
 
 ### ✨ Fun fact
 保持热爱，稳步向前 ✨
